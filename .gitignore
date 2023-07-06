@@ -7,7 +7,6 @@ release.properties
 .flattened-pom.xml
 target
 
-
 # Eclipse
 .project
 .classpath
